@@ -28,7 +28,7 @@ For our methods we first prepared the data , then we grouped all the products un
 The goal of this project was to come up with a method to perform sentiment analysis on tweets about Apple and Google products.In order to do so, we have created multiple classification models and identified the best one as a random forest model with an accuracy of 63%. This model will allow our stakeholder to identify the priority (negative and neutral) users and target their ads accordingly.
 
 ### For More Information
-Please review our full analysis in our [Jupyter Notebook](https://github.com/mfurkankolanci/dsc_project_4/blob/master/final_notebook.pdf) or our [presentation](https://github.com/mfurkankolanci/dsc_project_4/blob/master/Phase%204%20Project%20Presentation.pdf).
+Please review our full analysis in our [Jupyter Notebook](https://github.com/mfurkankolanci/dsc_project_4/blob/master/final_notebook.ipynb) or our [presentation](https://github.com/mfurkankolanci/dsc_project_4/blob/master/Phase%204%20Project%20Presentation.pdf).
 ### Repository Structure
 
 ```
